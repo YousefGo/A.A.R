@@ -134,4 +134,9 @@ h1{
 }
 footer{
 padding:30px;
+background-color: #30475e;
+
+}
+footer p {
+  color:blanchedalmond;
 }
