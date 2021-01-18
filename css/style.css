@@ -120,9 +120,8 @@ h1{
   border: chartreuse 5px dotted;
 }
 #contencMe{
-  background-color: rgba(128, 255, 0, 0.144);
   position: fixed ;
-  bottom:20%;
+  bottom:0;
   left:0 ; 
   height: 50px;
   width: 150px;
