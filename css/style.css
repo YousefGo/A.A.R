@@ -60,14 +60,7 @@ body{
 .wd{
   width: 100%;
 }
-.grid{
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-}
-.grid-item{
-  align-items: center;
 
-}
 
 .desc{
   padding: 5%;
@@ -138,4 +131,7 @@ h1{
 .c{
   text-align: none;
   color:black;
+}
+footer{
+padding:30px;
 }
