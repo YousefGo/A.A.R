@@ -18,7 +18,7 @@ body{
 }
 .wrap{
     margin: 0 auto ;
-    width: 80%;
+    width: 70%;
 }
 .wrap h1 {
   text-align: center;
@@ -66,6 +66,7 @@ body{
   padding: 5%;
   font-size: 18px;
   text-align: right;
+  line-height: 2;
   width: 100%;
 }
 .serbox{
